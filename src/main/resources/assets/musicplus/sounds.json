@@ -1,0 +1,10 @@
+{
+  "music_disc_tall": {
+    "sounds": [
+      {
+        "name": "musicplus:music_disc_tall",
+        "stream": true
+      }
+    ]
+  }
+}

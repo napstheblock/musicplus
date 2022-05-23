@@ -34,7 +34,7 @@ public class MusicPlus {
 
         ModItems.register(modEventBus);
 
-        ModSoundEvents.registerSoundEvent(MOD_ID);
+        ModSoundEvents.register(modEventBus);
 
         modEventBus.addListener(this::setup);
 
