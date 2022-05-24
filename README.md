@@ -1,4 +1,5 @@
 # Music Plus
 
-![](https://github.com/napstheblock/musicplus/blob/master/src/main/resources/assets/musicplus/textures/item/music_disc_tall.png?raw=true)
+![sheeesh](https://cdn.discordapp.com/attachments/978417725489709117/978481426154549278/ezgif.com-gif-maker_2.gif)
+
 A Minecraft Forge mod that adds custom music and discs to the game.
