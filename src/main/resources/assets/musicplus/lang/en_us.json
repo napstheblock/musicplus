@@ -1,6 +1,8 @@
 {
   "item.musicplus.music_disc_tall": "Music Disc",
   "item.musicplus.music_disc_tall.desc": "NapsTheBlock - Tall",
+  "item.musicplus.music_disc_dimensions": "Music Disc",
+  "item.musicplus.music_disc_dimensions.desc": "NapsTheBlock - Dimensions",
 
 
   "itemGroup.musicplus": "Music Plus"

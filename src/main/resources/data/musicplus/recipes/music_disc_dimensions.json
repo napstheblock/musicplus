@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "musicplus:music_disc_tall"
+    },
+    {
+      "item": "minecraft:music_disc_pigstep"
+    }
+  ],
+  "result": {
+    "item": "musicplus:music_disc_dimensions"
+  }
+}

@@ -13,8 +13,11 @@ import net.naps.musicplus.MusicPlus;
 public class ModSoundEvents {
     public static final DeferredRegister<SoundEvent> SOUND_EVENTS =
             DeferredRegister.create(ForgeRegistries.SOUND_EVENTS, MusicPlus.MOD_ID);
-
+    //Discs
     public static RegistryObject<SoundEvent> TALL = registerSoundEvent("music_disc_tall");
+    public static RegistryObject<SoundEvent> DIMENSIONS = registerSoundEvent("music_disc_dimensions");
+
+    //Ambience
 
     private static RegistryObject<SoundEvent> registerSoundEvent(String name){
         return SOUND_EVENTS.register(name, () -> new SoundEvent(new ResourceLocation(MusicPlus.MOD_ID, name)));

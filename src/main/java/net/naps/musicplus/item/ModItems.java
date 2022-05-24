@@ -21,6 +21,11 @@ public class ModItems {
                     .tab(ModCreativeModeTab.MUSIC_PLUS)
                     .rarity(Rarity.RARE)
                     .stacksTo(1)));
+    public static final RegistryObject<Item> DIMENSIONS = ITEMS.register("music_disc_dimensions", () -> new RecordItem(4, ModSoundEvents.DIMENSIONS,
+            new Item.Properties()
+                    .tab(ModCreativeModeTab.MUSIC_PLUS)
+                    .rarity(Rarity.RARE)
+                    .stacksTo(1)));
 
 
     public static void register(IEventBus eventBus) {
