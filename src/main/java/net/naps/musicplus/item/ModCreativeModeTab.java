@@ -7,7 +7,7 @@ public class ModCreativeModeTab {
     public static final CreativeModeTab MUSIC_PLUS = new CreativeModeTab("musicplus") {
         @Override
         public ItemStack makeIcon() {
-            return new ItemStack(ModItems.TALL.get());
+            return new ItemStack(ModItems.DIMENSIONS.get());
         }
     };
 }
