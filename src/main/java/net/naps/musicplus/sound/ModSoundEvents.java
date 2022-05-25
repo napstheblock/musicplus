@@ -18,6 +18,8 @@ public class ModSoundEvents {
     public static RegistryObject<SoundEvent> DIMENSIONS = registerSoundEvent("music_disc_dimensions");
 
     //Ambience
+    public static RegistryObject<SoundEvent> KALL = registerSoundEvent("kall");
+
 
     private static RegistryObject<SoundEvent> registerSoundEvent(String name){
         return SOUND_EVENTS.register(name, () -> new SoundEvent(new ResourceLocation(MusicPlus.MOD_ID, name)));

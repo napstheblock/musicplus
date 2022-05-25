@@ -15,5 +15,14 @@
         "stream": true
       }
     ]
+  },
+  "kall": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "musicplus:kall",
+        "stream": true
+      }
+    ]
   }
 }
